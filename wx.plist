@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
     <dict>
@@ -10,18 +11,18 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://houwei.net/ios/wx.ipa</string>
+                        <string><![CDATA[http://src.pre.im/d/app/b39542509b4500b5e18a7730a6067e25.ipa?attname=Mr.%E9%98%9F%E9%95%BF_6.3.5_6.3.5.16.ipa&e=1456763824&token=P5K94dNUBXfJfRKYKfpy2BSQQhtUI-wlVxZwzAti:h1BhpV-q8p1qZxV8n-HxO4C8DYg=]]></string>
                     </dict>
                 </array>
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                                        <string>P03.tencent.yuanban</string><key>bundle-version</key>
+                                        <string>com.tencent.weixin.jy.04</string><key>bundle-version</key>
                     <string>6.3.5</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>Apple.ºìÉ«</string>
+                    <string>Mr.é˜Ÿé•¿</string>
                 </dict>
             </dict>
         </array>
